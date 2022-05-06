@@ -12,6 +12,10 @@ MS Excel
 ### Visualization Tools
 MS Excel
 
+### Final Project Presentation
+
+https://github.com/Alankar2299/GameCo_Marketing_Analysis/blob/9d631615beb16bf1f71a8d8cd5901633d37a49e2/210928_GameCo-%20Marketing%20Analysis_Final%20Project%20Presentation.pptx
+
 ### Sample Visualizations from the project
 
 #### Temporal Chart
